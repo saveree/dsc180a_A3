@@ -14,7 +14,9 @@ complexity score = (color_score + variance_score + edge_score) / 3
 ## Description of Contents 
 
 * config
+
     -data_params.json
+    
     -test_params.json
 * notebooks
 * references
