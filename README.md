@@ -1,4 +1,4 @@
-# dsc180a_A3 ~ Replication 
+# DSC180A: A3 ~ Replication 
 
 ## Introduction 
 
