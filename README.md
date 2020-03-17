@@ -13,20 +13,12 @@ complexity score = (color_score + variance_score + edge_score) / 3
 
 ## Description of Contents 
 
-PROJECT
-├── .env
-├── .gitignore
-├── README.md
-├── config
-│   ├── data-params.json
-│   └── test-params.json
-├── data
-│   ├── urls
-├── notebooks
-│   └── .gitkeep
-├── references
-│   └── .gitkeep
-├── requirements.txt
-├── run.py
-└── src
-    └── etl.py
+* config
+    -data_params.json
+    -test_params.json
+* notebooks
+* references
+* src
+* test
+    -test.csv
+* run.py
