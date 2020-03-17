@@ -24,3 +24,8 @@ complexity score = (color_score + variance_score + edge_score) / 3
 * test
     -test.csv
 * run.py
+
+
+## src
+* etl.py 
+    > Library code that executes tasks useful for getting data.
