@@ -29,3 +29,6 @@ complexity score = (color_score + variance_score + edge_score) / 3
 ## src
 * etl.py 
     > Library code that executes tasks useful for getting data.
+* config 
+    > data-params.json: Common parameters for getting data, serving as inputs to library code.
+    > test-params.json: parameters for running small process on small test data.
